@@ -20,3 +20,8 @@ body {
     background-color: steelblue;
     padding-bottom: 50px;
 }
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
